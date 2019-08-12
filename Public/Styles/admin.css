@@ -1,0 +1,45 @@
+.ID,.state,.Edit,.Details,.tdbtn{width: 5px;}
+.Error{color: #ff0000;font-weight: bold;position:relative;
+       padding: 7px 10px 7px 10px;
+       margin:1em 0 3em;
+       color:#000;
+       background:#f3961c;
+       /* css3 */
+       -moz-border-radius:10px;
+       -webkit-border-radius:10px;
+       border-radius:10px;
+       background:-moz-linear-gradient(top, #f9d835, #f3961c);
+       background:linear-gradient(top, #f9d835, #f3961c);}
+#tabs li{float: right;}
+#Shared {border: #eeeeee solid medium;}
+#Shared h1{background: #dfdfdf; font-weight: bold;text-align: center;}
+#messages{bottom: 5px; right: 2%; position: fixed;}
+.tumb{width: 150px;}
+iframe {border: none;}
+#details p, #form p{min-height: 10px;margin-bottom: 5px;}
+.msg{
+    height: auto;
+    background: #333;
+    opacity: .9;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    color: #EEE;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 6px;
+    padding-right: 6px;
+    font-family: lucida Grande;
+    font-size: 14px;
+    border: 2px solid #999;
+    display: block;
+    position: relative;
+    margin: 0 0 12px 0;
+}
+#pAlbum div {
+    display: inline-table;
+    margin-right: 10px;
+}
+#pAlbum .pimg {
+    width: 100px;
+    height: 120px;
+}
