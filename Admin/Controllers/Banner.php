@@ -29,5 +29,3 @@ class BannerController extends ControllerAdmin implements IControllerAdmin {
     }
 
 }
-
-?>

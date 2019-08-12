@@ -860,4 +860,3 @@ class profileController extends Controller {
 
 }
 
-?>

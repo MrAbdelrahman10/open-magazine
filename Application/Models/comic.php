@@ -18,4 +18,3 @@ class comicModel extends Model {
 
 }
 
-?>

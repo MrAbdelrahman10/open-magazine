@@ -19,4 +19,4 @@ if ($dResults) {
             <?php } ?>
         </tbody>
     </table>
-<?php } ?>
+<?php }

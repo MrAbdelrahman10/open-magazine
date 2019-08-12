@@ -58,5 +58,3 @@ class CommentController extends ControllerAdmin implements IControllerAdmin {
     }
 
 }
-
-?>

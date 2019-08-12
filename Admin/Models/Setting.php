@@ -24,4 +24,3 @@ class SettingModel extends ModelAdmin {
 
 }
 
-?>

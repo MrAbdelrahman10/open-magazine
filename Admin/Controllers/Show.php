@@ -65,5 +65,3 @@ class ShowController extends ControllerAdmin {
     }
 
 }
-
-?>

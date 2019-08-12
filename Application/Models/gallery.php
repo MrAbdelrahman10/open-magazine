@@ -20,4 +20,3 @@ class galleryModel extends Model {
 
 }
 
-?>

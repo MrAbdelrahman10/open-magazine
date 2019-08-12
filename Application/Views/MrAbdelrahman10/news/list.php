@@ -37,4 +37,3 @@ if ($d['dResults']) {
     </div><!-- /pagination -->
     <?php
 }
-?>

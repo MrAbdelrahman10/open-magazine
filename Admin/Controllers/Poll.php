@@ -17,5 +17,3 @@ class PollController extends ControllerAdmin {
     }
 
 }
-
-?>

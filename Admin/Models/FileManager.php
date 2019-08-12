@@ -4,4 +4,3 @@ class FileManagerModel extends ModelAdmin {
     
 }
 
-?>

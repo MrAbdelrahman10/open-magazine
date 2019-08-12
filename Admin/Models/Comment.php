@@ -90,4 +90,3 @@ class CommentModel extends ModelAdmin implements IModelAdmin {
     }
 }
 
-?>

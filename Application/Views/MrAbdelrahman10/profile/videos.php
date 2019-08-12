@@ -44,4 +44,4 @@ if ($dResults) {
     <div class="pagination">
         <?php echo $dRenderNav; ?>
     </div>
-<?php } ?>
+<?php }

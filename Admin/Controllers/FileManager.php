@@ -27,5 +27,3 @@ class FileManagerController extends ControllerAdmin {
     }
 
 }
-
-?>

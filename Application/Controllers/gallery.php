@@ -57,4 +57,3 @@ class galleryController extends Controller {
 
 }
 
-?>
