@@ -2,7 +2,7 @@
     "name": "mrabdelrahman10/open-magazine",
     "description": "Open source project for magazines",
     "type": "project",
-    "license": "GPL",
+    "license": "MIT",
     "authors": [
         {
             "name": "Abdelrahman Mohamed",
