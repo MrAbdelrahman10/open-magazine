@@ -2,11 +2,13 @@
     "name": "mrabdelrahman10/open-magazine",
     "description": "Open source project for magazines",
     "type": "project",
+    "license": "GPL",
     "authors": [
         {
             "name": "Abdelrahman Mohamed",
             "email": "mrabdelrahman10@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
